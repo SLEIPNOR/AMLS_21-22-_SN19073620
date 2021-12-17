@@ -2,7 +2,6 @@
 """
 Created on Sat Nov 20 00:52:34 2021
 
-@author: Z.Han
 """
 """This code is for image preprocessing including 5-fold cross-validation set splitting 
 and PCA, LDA (we not use here as it cannot give good results). Also, for formal training, 
