@@ -1,6 +1,6 @@
 # AMLS_21-22-_SN19073620
 TASK B:
-
+Warning: This code is only a history of Task B. 
 1. Introduction: 
 We use 24 layers depth (24LD) ResNet model with different hyperparameters in Task B for multiclass classification 
 (no tumor, meningioma tumor, glioma tumor, pituitary tumor). 10-fold cross-validation is used here. 
