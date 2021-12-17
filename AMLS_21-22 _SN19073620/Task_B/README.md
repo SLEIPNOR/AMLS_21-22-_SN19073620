@@ -41,8 +41,7 @@ NOTE: All codes are run in pycharm, when you are running these code, plese open 
 so that each code blocks (cells) will appear. Please run only one code block at one time by pressing "ctrl + enter".
 
 5. Necessary packages or header files:
-Tensorflow 2.0.0, GTX/RTX Grahpic Cards, Cuda 10.0, Cudnn 7.6.5
-keras, numpy, sklearn, pandas, matplotlib, PIL, glob, gc, random.uniform, collections.Counter, ipykernel.
+Tensorflow 2.0.0, GTX/RTX Grahpic Cards, Cuda 10.0, Cudnn 7.6.5, keras, numpy, sklearn, pandas, matplotlib, PIL, glob, gc, random.uniform, collections.Counter, ipykernel.
 
 
 
