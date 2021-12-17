@@ -26,7 +26,7 @@ all_loss_1e-x.csv indicates the loss of model with dropout and different regular
 all_scores_1e-x.csv indicates the validation accuracy of each fold in one cross-validation with dropout and different regularization penalty x ={1,2,3,4}.
 dropout_acc.csv, dropout_loss.csv, dropout_scores.csv is mearsured for model only with dropout which is same as above.
 no_acc.csv, no_loss.csv, no_scores.csv  is mearsured for model without both dropout and regularization which is also same as above.
-reg_acc.csv, reg_loss.csv, reg_scores.csv is mearsured for model only with regularization penalty = 1e-3, which is also same as above.
+reg_acc.csv, reg_loss.csv, reg_scores.csv is mearsured for model only with regularization penalty = 1e-4, which is also same as above.
 modelA_aug_acc.csv, modelA_aug_loss.csv, modelA_aug_scores.csv is measured for model A after data augmentation, which is same as above.
 modelB_aug_acc.csv, modelB_aug_loss.csv, modelB_aug_scores.csv is measured for model B after data augmentation, which is same as above.
 reg=x.csv indicates the history of dynamic learning rate search of model with only regularization peanlty, where peanlty x = {0, 1e-1, 1e-2, 1e-3, 1e-4}.
