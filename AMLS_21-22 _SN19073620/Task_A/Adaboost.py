@@ -2,7 +2,6 @@
 """
 Created on Tue Nov 23 02:14:28 2021
 
-@author: Z.Han
 """
 """ Hello, I'm so happy you can use my code. I have prepared all preprocessed data so you 
 can use this code to reproduce the hyperparameter selection and training process directly. 
