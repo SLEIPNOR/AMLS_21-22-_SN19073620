@@ -1,4 +1,4 @@
-""" self made module by @ Z.Han"""
+""" self made module """
 
 """data_augmentation.py module provides down_sampling & 
 data_augmentation for data preprocessing prior to training, 
