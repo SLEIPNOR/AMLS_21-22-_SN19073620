@@ -1,4 +1,4 @@
-""" Self made module by @ Z.Han"""
+""" Self made module """
 
 """ This module is 24LD model which used in cross_validation_training.py
 you can adjust regularization penalty (reg), and you can also add or delete
