@@ -1,4 +1,4 @@
-""" Self made module by @ Z.Han"""
+""" Self made module """
 
 """ ResBlock.py module contains 3*3 ResNet Block for ResNet designing, 
 parameters are imported as kernel size, filters for instance 
