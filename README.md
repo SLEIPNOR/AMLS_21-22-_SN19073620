@@ -1,5 +1,6 @@
 # AMLS_21-22-_SN19073620
 TASK A:
+Warning: This is only a history of Task A code.
 
 1. Introduction: 
 We use AdaBoost and SVM in Task A for binary classification (no tumor, tumor). 5-fold cross-validation is used here. 
