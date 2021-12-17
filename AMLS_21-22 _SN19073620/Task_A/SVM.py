@@ -2,7 +2,6 @@
 """
 Created on Thu Nov 25 02:27:34 2021
 
-@author: Z.Han
 """
 """ Hello, I'm so happy you can use my code. I have prepared all preprocessed data so you 
 can use this code to reproduce the grid search and training process directly. 
